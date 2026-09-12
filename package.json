@@ -1,0 +1,22 @@
+{
+  "name": "ri4",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfisioramos-cmyk/RI4.git"
+  },
+  "keywords": [],
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfisioramos-cmyk/RI4/issues"
+  },
+  "homepage": "https://github.com/lucasfisioramos-cmyk/RI4#readme"
+}
